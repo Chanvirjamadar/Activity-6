@@ -1,0 +1,12 @@
+StudentId,FullName,RollNumber,Department,YearSemester,Email,MobileNumber,Gender
+STU-1001,Aarav Sharma,CS-2023-001,Computer Science,3rd Year (Sem 5),aarav.sharma@college.edu,9876543210,Male
+STU-1002,Priya Patel,IT-2023-014,Information Technology,3rd Year (Sem 5),priya.patel@college.edu,9812345678,Female
+STU-1003,Rohan Verma,ME-2022-032,Mechanical Engineering,4th Year (Sem 7),rohan.verma@college.edu,9765432109,Male
+STU-1004,Ananya Deshmukh,EC-2024-008,Electronics & Comm,2nd Year (Sem 3),ananya.d@college.edu,9898989898,Female
+STU-1005,Kabir Singh,AI-2024-021,AI & Data Science,2nd Year (Sem 3),kabir.singh@college.edu,9123456780,Male
+STU-1006,Sneha Reddy,CE-2023-019,Civil Engineering,3rd Year (Sem 5),sneha.reddy@college.edu,9345678901,Female
+STU-1007,Vikram Malhotra,EE-2022-005,Electrical Engineering,4th Year (Sem 7),vikram.m@college.edu,9456789012,Male
+STU-1008,Ishita Joshi,CS-2025-055,Computer Science,1st Year (Sem 1),ishita.j@college.edu,9567890123,Female
+STU-1009,Aditya Kulkarni,IT-2024-029,Information Technology,2nd Year (Sem 4),aditya.k@college.edu,9678901234,Male
+STU-1010,Neha Gupta,AI-2025-003,AI & Data Science,1st Year (Sem 2),neha.gupta@college.edu,9789012345,Female
+
